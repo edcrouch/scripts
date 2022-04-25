@@ -2,7 +2,7 @@
 
 export WINEPREFIX=/run/media/edward/Games/Lutris/the-book-of-unwritten-tales
 
-frequency=60*5
+let frequency=60*5
 backupLocation="/run/media/edward/External/save-backup/bout"
 saveLocation="$WINEPREFIX/drive_c/users/edward/Documents/Book of Unwritten Tales/savegames"
 
